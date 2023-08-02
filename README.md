@@ -8,9 +8,9 @@ This is a simple implimentation of react-router-dom and Material UI. This is a s
 focus being on designing and developing a user-friendly interface that makes it easy for users to navigate and engage with the content.
 
 # Getting Started
- git clone https://github.com/Bhashkar-Abhishek/Fitness_Club.git
- npm install
- npm run dev
+ * git clone https://github.com/Bhashkar-Abhishek/Fitness_Club.git
+ * npm install
+ * npm run dev
 
 # Dependencies
 * react-router-dom
