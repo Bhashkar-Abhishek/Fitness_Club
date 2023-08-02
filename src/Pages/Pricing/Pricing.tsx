@@ -104,9 +104,9 @@ function Pricing() : JSX.Element {
                         <h3>INR 7500</h3>
                         <span>Unlimited Yoga Classes</span>  <br />
                         <span>Aerobics, Jujutsu</span>  <br />
-                        <span>Strength Training & CrossFit Training</span>  <br />
-                        <span>Boxing Training & Taekwando Training</span>  <br />
-                        <span>Karate Training, Bjj & MMa Training</span>  <br />
+                        <span>Strength & CrossFit Training</span>  <br />
+                        <span>Boxing & Taekwando Training</span>  <br />
+                        <span>Karate, Bjj & MMa Training</span>  <br />
                         {logedIn ? <Button variant="contained" onClick={handleSubsriptionY}>SELECT PLAN</Button> : <Button variant="contained" onClick={() => navigate('/login')}>SELECT PLAN</Button>}
                     </div>
       </div>
