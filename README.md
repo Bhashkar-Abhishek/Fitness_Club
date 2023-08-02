@@ -99,7 +99,7 @@ https://fitness-club-v24z-git-master-bhashkar-abhishek.vercel.app/
   ],
   
 
-  "trainingPrograms": [
+  "training & Programs": [
     {
       "name": "Yoga",
       "description":  "It’s time to roll out your yoga mat and discover the combination of physical and mental exercises that for thousands of years have hooked yoga practitioners around the globe. "
