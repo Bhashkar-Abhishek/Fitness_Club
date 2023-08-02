@@ -1,0 +1,40 @@
+.container {
+  background-color: transparent;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  border: none;
+  width: 100vw;
+  height: 5rem;
+}
+
+.links a {
+  margin: 1rem;
+}
+
+.login a {
+  margin: 1rem;
+}
+
+.mobile {
+  display: none;
+}
+
+@media screen and (min-width: 250px) and (max-width: 850px) {
+  .mobile {
+    display: flex;
+  }
+  .links {
+    display: none;
+  }
+  .login {
+    display: none;
+  }
+  .mobileLinks a {
+    margin: 1rem;
+  }
+  .mobileLogin{
+    display: flex;
+    flex-direction: column;
+  }
+}
