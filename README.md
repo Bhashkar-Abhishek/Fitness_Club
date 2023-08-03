@@ -28,7 +28,7 @@ https://fitness-club-v24z-git-master-bhashkar-abhishek.vercel.app/
   "pages": [
     {
       "name": "Home",
-      "title": "Fitness Club" ,
+      "title": "Home" ,
       },
     {
       "name": "About",
@@ -36,11 +36,11 @@ https://fitness-club-v24z-git-master-bhashkar-abhishek.vercel.app/
     },
     {
       "name": "Training",
-      "title": "Training - Fitness Club",
+      "title": "Training ",
       },
     {
       "name": "Program",
-      "title": "Program - Fitness Club",
+      "title": "Program ",
     },
     {
       "name": "Pricing",
